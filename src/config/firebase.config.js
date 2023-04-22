@@ -3,12 +3,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDDGFEAT3yyDGLW_HtCXRP1BbpcJanyl1o",
-  authDomain: "nextjs-firebase-auth-7bc43.firebaseapp.com",
-  projectId: "nextjs-firebase-auth-7bc43",
-  storageBucket: "nextjs-firebase-auth-7bc43.appspot.com",
-  messagingSenderId: "1052283772181",
-  appId: "1:1052283772181:web:6f1ca715559a2d1a2b1d1c"
+  apiKey: "AIzaSyAqv9bbZUmlUXQXBfPwlOFFXBuaahDsWtM",
+  authDomain: "phone-auth-f4573.firebaseapp.com",
+  projectId: "phone-auth-f4573",
+  storageBucket: "phone-auth-f4573.appspot.com",
+  messagingSenderId: "739562097330",
+  appId: "1:739562097330:web:336b999ea76eb1afa897ab"
 };
 
 // Initialize Firebase
